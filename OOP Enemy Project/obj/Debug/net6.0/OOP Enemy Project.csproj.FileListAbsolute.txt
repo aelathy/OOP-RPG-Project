@@ -1,0 +1,15 @@
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\bin\Debug\net6.0\OOP Enemy Project.exe
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\bin\Debug\net6.0\OOP Enemy Project.deps.json
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\bin\Debug\net6.0\OOP Enemy Project.runtimeconfig.json
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\bin\Debug\net6.0\OOP Enemy Project.dll
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\bin\Debug\net6.0\OOP Enemy Project.pdb
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\OOP Enemy Project.csproj.AssemblyReference.cache
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\OOP Enemy Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\OOP Enemy Project.AssemblyInfoInputs.cache
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\OOP Enemy Project.AssemblyInfo.cs
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\OOP Enemy Project.csproj.CoreCompileInputs.cache
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\OOP Enemy Project.dll
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\refint\OOP Enemy Project.dll
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\OOP Enemy Project.pdb
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\OOP Enemy Project.genruntimeconfig.cache
+C:\Users\alyel\Desktop\CS-30\OOP Enemy Project\obj\Debug\net6.0\ref\OOP Enemy Project.dll
