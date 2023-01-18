@@ -47,7 +47,7 @@ class Char
 
     public void deathLine()
     {
-        Console.WriteLine($"Oh no! You defeated the great {Name}!");
+        Console.WriteLine($"You defeated the great {Name}!");
     }
 
     public bool promptRestart()
@@ -86,11 +86,13 @@ class Program
             player.intro();
             player.showStats();
             enemy.showStats();
-            enemy.attacked(player.Name);
-            player.attacked(enemy.Name);
-            enemy.attacked(player.Name);
-            player.attacked(enemy.Name);
-            enemy.attacked(player.Name);
+            while (true)
+            {
+                enemy.attacked(player.Name);
+                if (enemy.Defense == 0 || player.Defense == 0)
+                    break;
+                player.attacked(enemy.Name);
+            }
 
             // Game Over
             Console.WriteLine("\nMatch Over!");
