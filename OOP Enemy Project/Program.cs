@@ -23,7 +23,7 @@ class Char
 
     public void intro()
     {
-        Console.WriteLine($"Jack: Get ready {Name}!");
+        Console.WriteLine($"Get ready {Name}!");
     }
 
     public void showStats()
@@ -47,7 +47,7 @@ class Char
 
     public void deathLine()
     {
-        Console.WriteLine($"Jack: Oh no! You defeated the great {Name}!");
+        Console.WriteLine($"Oh no! You defeated the great {Name}!");
     }
 
     public bool promptRestart()
